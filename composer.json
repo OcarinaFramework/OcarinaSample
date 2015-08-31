@@ -1,0 +1,19 @@
+{
+  "name": "OcarinaSample",
+  "license": "MIT",
+  "type": "project",
+  "description": "Ocarina Framework Sample project",
+  "config": {
+    "vendor-dir":"libs"
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/OcarinaFramework/Ocarina"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.3",
+    "ocarina/ocarina": "dev-master"
+  }
+}
